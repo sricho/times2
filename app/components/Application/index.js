@@ -4,7 +4,7 @@ import { Dialog, FlatButton, Styles } from 'material-ui';
 const ThemeManager = Styles.ThemeManager();
 const Colors = Styles.Colors;
 
-require('./styles');
+require('./style');
 
 class Application extends React.Component {
   constructor(props) {
